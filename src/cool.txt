@@ -1,0 +1,19 @@
+
+ ____                     _  _            _  _            _    
+(  __)                   ( )(_)          ( )( )          ( )   
+| | _  __  ___  ___  ___ | | _  ____  __ | L| | ___  ___ | | _ 
+( )_))( _)( o )( o \( o \( )( )( __ )/o )( __ )( o )( o )( _'( 
+/____\/_\ /_^_\/ __// __//_\/_\/_\/_\\__\/_\/_\ \_/  \_/ /_\\_|
+               |_|  |_|               _|/                      
+
+GrapplingHook v0.1
+Created by Jayy // f1sk
+
+Based off the PoC scripts in tgus repo (Also made by Jayy // f1sk)
+https://github.com/FiskDk/PowerShell-Discord-Token-Grabber
+
+Disclaimer
+I am not responsible for damages caused with this program, or other peoples actions with this program.
+You may not use this program for any kind of illegal activities.
+
+Have fun <3

@@ -1,0 +1,4 @@
+Matt - https://stackoverflow.com/users/1016343/matt
+Batch script to elevate permissions
+Jayy // f1sk - https://github.f1sk.xyz
+https://github.com/FiskDk/PowerShell-Discord-Token-Grabber
