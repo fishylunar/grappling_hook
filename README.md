@@ -17,3 +17,6 @@ Have fun <3
 # How to use
  - Download / Fork this repo
  - Run `GrapplingHook.cmd` on the target machine.
+
+ # The Examples
+ These files show the potential of Grappling Hook, if used correctly.
